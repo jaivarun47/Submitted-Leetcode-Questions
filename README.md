@@ -78,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0645-set-mismatch) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
