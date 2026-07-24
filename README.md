@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0645-set-mismatch) |
 ## Divide and Conquer
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
