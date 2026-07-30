@@ -5,11 +5,19 @@ class Solution {
             freq[c - 'a']++;
         }
         Arrays.sort(freq);
-        int rank = 0, count = 0;
-
-        for (int i = 25; i >= 0 && freq[i] > 0; i--) {
-            count += freq[i] * (rank / 8 + 1);
-            rank++;
+        int i = 25, count = 0;
+        while (i >= 0){
+            if (freq[i] == 0) break;
+            if (i > 17){
+                count += freq[i];
+            } else if (i > 9){
+                count += 2*freq[i];
+            } else if (i > 1){
+                count += 3*freq[i];
+            } else {
+                count += 4*freq[i];
+            }
+            i--;
         }
         return count;
     }
