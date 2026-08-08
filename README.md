@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0486-predict-the-winner](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 ## Two Pointers
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [1903-largest-odd-number-in-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
