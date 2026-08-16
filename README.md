@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0645-set-mismatch) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0213-house-robber-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
@@ -227,4 +229,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0547-number-of-provinces) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
