@@ -9,18 +9,17 @@ class Solution {
         map.put('D', 500);
         map.put('M', 1000);
 
-        int val = 0, i = s.length() - 1;
-        int last = 0;
-        while (i >= 0){
-            int curr = map.get(s.charAt(i));
-            if (curr < last){
-                val -= curr;
+        int sum = 0;
+        for (int i = 0; i < s.length()-1; i++){
+            int c = map.get(s.charAt(i));
+            int d = map.get(s.charAt(i+1));
+            if (c < d){
+                sum -= c;
             } else {
-                val += curr;
+                sum += c;
             }
-            i--;
-            last = curr;
         }
-        return val;
+        sum += map.get(s.charAt(s.length()-1));
+        return sum;
     }
 }
