@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0812-largest-triangle-area) |
+| [0819-most-common-word](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0819-most-common-word) |
 | [0875-koko-eating-bananas](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [0748-shortest-completing-word](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0748-shortest-completing-word) |
 | [0804-unique-morse-code-words](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0819-most-common-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Divide and Conquer
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
+| [0819-most-common-word](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0819-most-common-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Dynamic Programming
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0819-most-common-word) |
 | [1021-remove-outermost-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
