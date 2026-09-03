@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0733-flood-fill) |
+| [0746-min-cost-climbing-stairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0486-predict-the-winner) |
+| [0746-min-cost-climbing-stairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
