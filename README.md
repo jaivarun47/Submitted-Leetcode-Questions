@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0819-most-common-word) |
+| [0860-lemonade-change](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0860-lemonade-change](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
