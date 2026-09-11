@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3842-toggle-light-bulbs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3842-toggle-light-bulbs) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0860-lemonade-change) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
