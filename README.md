@@ -276,10 +276,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0547-number-of-provinces) |
+| [2076-process-restricted-friend-requests](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2076-process-restricted-friend-requests) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0547-number-of-provinces) |
+| [2076-process-restricted-friend-requests](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2076-process-restricted-friend-requests) |
 ## Knapsack Problem
 |  |
 | ------- |
