@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3127-make-a-square-with-the-same-color](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3583-count-special-triplets](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3583-count-special-triplets) |
 | [3842-toggle-light-bulbs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3583-count-special-triplets](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3583-count-special-triplets) |
 | [3842-toggle-light-bulbs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3842-toggle-light-bulbs) |
 ## Divide and Conquer
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0819-most-common-word) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3583-count-special-triplets](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3583-count-special-triplets) |
 ## Dynamic Programming
 |  |
 | ------- |
