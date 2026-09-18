@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0888-fair-candy-swap) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0888-fair-candy-swap) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0819-most-common-word) |
 | [1021-remove-outermost-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2719-count-of-integers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2719-count-of-integers) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0860-lemonade-change](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0860-lemonade-change) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
