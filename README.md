@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0812-largest-triangle-area](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0812-largest-triangle-area) |
 | [0908-smallest-range-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0908-smallest-range-i) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1903-largest-odd-number-in-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2719-count-of-integers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2719-count-of-integers) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0812-largest-triangle-area) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Polygons
 |  |
 | ------- |
