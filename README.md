@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3127-make-a-square-with-the-same-color](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3583-count-special-triplets](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3583-count-special-triplets) |
 | [3842-toggle-light-bulbs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [2719-count-of-integers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2719-count-of-integers) |
+| [3524-find-x-value-of-array-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
