@@ -329,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3127-make-a-square-with-the-same-color](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [1193-monthly-transactions-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
