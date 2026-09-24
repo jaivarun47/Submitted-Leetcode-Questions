@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1975-maximum-matrix-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3127-make-a-square-with-the-same-color](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2719-count-of-integers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2719-count-of-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3524-find-x-value-of-array-i) |
 ## Two Pointers
@@ -356,4 +358,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2218-maximum-value-of-k-coins-from-piles](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 <!---LeetCode Topics End-->
