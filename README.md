@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+| [2401-longest-nice-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2401-longest-nice-subarray) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3127-make-a-square-with-the-same-color](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0645-set-mismatch) |
+| [2401-longest-nice-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2401-longest-nice-subarray) |
 ## String
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2401-longest-nice-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2401-longest-nice-subarray) |
 ## Prefix Sum
 |  |
 | ------- |
