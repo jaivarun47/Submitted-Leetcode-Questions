@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0888-fair-candy-swap) |
+| [1096-brace-expansion-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0888-fair-candy-swap) |
+| [1096-brace-expansion-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0819-most-common-word) |
 | [1021-remove-outermost-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1021-remove-outermost-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0994-rotting-oranges) |
+| [1096-brace-expansion-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 ## Union-Find
 |  |
 | ------- |
@@ -362,4 +367,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
