@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1975-maximum-matrix-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1903-largest-odd-number-in-string) |
 | [2719-count-of-integers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2719-count-of-integers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
