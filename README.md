@@ -54,6 +54,7 @@
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2401-longest-nice-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2401-longest-nice-subarray) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
+| [3011-find-if-array-can-be-sorted](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3127-make-a-square-with-the-same-color](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -105,6 +106,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [3011-find-if-array-can-be-sorted](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3842-toggle-light-bulbs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3842-toggle-light-bulbs) |
@@ -197,6 +199,7 @@
 | ------- |
 | [0645-set-mismatch](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [2401-longest-nice-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2401-longest-nice-subarray) |
+| [3011-find-if-array-can-be-sorted](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3011-find-if-array-can-be-sorted) |
 ## String
 |  |
 | ------- |
