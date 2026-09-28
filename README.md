@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0213-house-robber-ii) |
+| [0274-h-index](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0274-h-index) |
 | [0416-partition-equal-subset-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -98,6 +99,7 @@
 | [0088-merge-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -264,6 +266,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Combinatorics
 |  |
