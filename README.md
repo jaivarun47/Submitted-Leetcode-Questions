@@ -213,6 +213,7 @@
 | [0020-valid-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0451-sort-characters-by-frequency](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
 | [0748-shortest-completing-word](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0796-rotate-string) |
@@ -322,6 +323,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [0547-number-of-provinces](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0994-rotting-oranges) |
@@ -398,5 +400,6 @@
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
