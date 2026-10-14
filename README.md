@@ -194,6 +194,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -261,6 +262,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Trie
 |  |
 | ------- |
