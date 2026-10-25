@@ -420,4 +420,8 @@
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
