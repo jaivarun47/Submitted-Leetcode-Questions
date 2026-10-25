@@ -22,6 +22,7 @@
 | [0169-majority-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0274-h-index) |
 | [0416-partition-equal-subset-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0486-predict-the-winner) |
@@ -411,6 +412,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
