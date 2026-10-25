@@ -44,6 +44,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1254-number-of-closed-islands](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1480-running-sum-of-1d-array) |
@@ -322,6 +323,7 @@
 | [0733-flood-fill](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0994-rotting-oranges) |
+| [1254-number-of-closed-islands](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [1975-maximum-matrix-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3127-make-a-square-with-the-same-color](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3127-make-a-square-with-the-same-color) |
@@ -330,6 +332,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0733-flood-fill) |
+| [1254-number-of-closed-islands](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -338,10 +341,12 @@
 | [0733-flood-fill](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0547-number-of-provinces) |
+| [1254-number-of-closed-islands](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [2076-process-restricted-friend-requests](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2076-process-restricted-friend-requests) |
 ## Graph Theory
 |  |
