@@ -68,6 +68,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3583-count-special-triplets](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3583-count-special-triplets) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3842-toggle-light-bulbs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -328,12 +329,14 @@
 | [1975-maximum-matrix-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1975-maximum-matrix-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3127-make-a-square-with-the-same-color](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3127-make-a-square-with-the-same-color) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -343,12 +346,14 @@
 | [0994-rotting-oranges](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [2076-process-restricted-friend-requests](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2076-process-restricted-friend-requests) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
