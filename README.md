@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0120-triangle) |
@@ -105,6 +106,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0242-valid-anagram) |
@@ -155,6 +157,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0189-rotate-array) |
@@ -434,4 +437,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0169-majority-element) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
