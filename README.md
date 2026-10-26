@@ -20,6 +20,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0238-product-of-array-except-self) |
@@ -156,6 +157,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -187,6 +189,7 @@
 | [0013-roman-to-integer](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0189-rotate-array) |
 | [0486-predict-the-winner](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0812-largest-triangle-area](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0812-largest-triangle-area) |
 | [0908-smallest-range-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0908-smallest-range-i) |
