@@ -73,6 +73,7 @@
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3842-toggle-light-bulbs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -154,6 +155,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2719-count-of-integers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2719-count-of-integers) |
 | [3524-find-x-value-of-array-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3524-find-x-value-of-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +222,7 @@
 | [2401-longest-nice-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2401-longest-nice-subarray) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3011-find-if-array-can-be-sorted](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3011-find-if-array-can-be-sorted) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -336,6 +339,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3127-make-a-square-with-the-same-color](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3127-make-a-square-with-the-same-color) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
