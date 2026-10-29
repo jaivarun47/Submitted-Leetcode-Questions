@@ -31,6 +31,7 @@
 | [0486-predict-the-winner](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0645-set-mismatch](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0746-min-cost-climbing-stairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0746-min-cost-climbing-stairs) |
@@ -184,6 +185,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0875-koko-eating-bananas) |
 | [0888-fair-candy-swap](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0888-fair-candy-swap) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
