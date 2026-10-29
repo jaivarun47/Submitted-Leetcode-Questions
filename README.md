@@ -73,6 +73,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
 | [3583-count-special-triplets](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3583-count-special-triplets) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3842-toggle-light-bulbs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3842-toggle-light-bulbs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -106,6 +107,7 @@
 | [0053-maximum-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0169-majority-element) |
 | [0918-maximum-sum-circular-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0918-maximum-sum-circular-subarray) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sorting
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [2401-longest-nice-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2401-longest-nice-subarray) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3011-find-if-array-can-be-sorted](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3011-find-if-array-can-be-sorted) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## String
 |  |
@@ -259,6 +262,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Stack
 |  |
 | ------- |
@@ -352,6 +356,7 @@
 | [0733-flood-fill](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0733-flood-fill) |
 | [1254-number-of-closed-islands](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -424,6 +429,7 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -454,4 +460,12 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0075-sort-colors) |
+## Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
