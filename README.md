@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0088-merge-sorted-array) |
@@ -78,6 +79,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0451-sort-characters-by-frequency) |
@@ -331,6 +333,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0733-flood-fill](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0766-toeplitz-matrix) |
 | [0994-rotting-oranges](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/0994-rotting-oranges) |
