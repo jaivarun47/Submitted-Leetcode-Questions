@@ -64,6 +64,7 @@
 | [2218-maximum-value-of-k-coins-from-piles](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2218-maximum-value-of-k-coins-from-piles) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2401-longest-nice-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2401-longest-nice-subarray) |
+| [2747-count-zero-request-servers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2747-count-zero-request-servers) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3011-find-if-array-can-be-sorted](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3011-find-if-array-can-be-sorted) |
@@ -97,6 +98,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2747-count-zero-request-servers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2747-count-zero-request-servers) |
 | [2763-sum-of-imbalance-numbers-of-all-subarrays](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2763-sum-of-imbalance-numbers-of-all-subarrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -129,6 +131,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2747-count-zero-request-servers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2747-count-zero-request-servers) |
 | [3011-find-if-array-can-be-sorted](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3011-find-if-array-can-be-sorted) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -446,6 +449,7 @@
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2401-longest-nice-subarray](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2401-longest-nice-subarray) |
+| [2747-count-zero-request-servers](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/jaivarun47/Submitted-Leetcode-Questions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
 |  |
